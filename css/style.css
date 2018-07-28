@@ -1,0 +1,76 @@
+/*
+
+ // DESENVOLVIDO POR ITALO CASTRO (EMIERIXIX) //
+
+Facebook: https://www.facebook.com/italodzn
+Github: https://www.github.com/Emierixix
+Instagram: https://www.instagram.com/Emierixix
+
+Se for usar não remova isso por favor ! e muito obrigado por usar. 
+
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Lato:700');
+@import url('https://fonts.googleapis.com/css?family=Lato:700');
+body{
+	background-color: #303030;
+	background-image: url("../img/back.png");
+}
+input{
+	width: 280px;
+	height: 28px;
+	border: none;
+	margin-top: 15px;
+	padding-left: 5px;
+	outline: none;
+	background-color: transparent;
+	border-bottom: 2px solid white;
+	color: white;
+}
+input::placeholder{
+	color: white;
+}
+form{
+	margin-top: 0px;
+	outline: none;
+	padding-top: 0px;
+}
+.btn{
+	width: 285px;
+	height: 35px;
+	margin-top: 30px;
+	border:none;
+	border-radius:8px;
+	color: white;
+	font-weight: bold;
+	background-color:#de00ff;
+	cursor: pointer;
+}
+a{
+	text-decoration: none;
+	color: white;
+}.cadsque{
+	font-family: arial;
+	font-size: 12px;
+	text-align: left;
+	margin-left: 35px;
+	color: #ccc;
+	margin-top: 15px;
+}
+.painel{
+	height: 400px;
+	width: 350px;
+	margin-top: 130px;
+}
+.painel2{
+	height: 400px;
+	width: 350px;
+	margin-top: 200px;
+}
+.msg{
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+	padding-top: 35px;
+}
